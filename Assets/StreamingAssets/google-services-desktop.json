@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105428221168",
+    "project_id": "tuk-tuk-auto-rickshwa-54845",
+    "storage_bucket": "tuk-tuk-auto-rickshwa-54845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105428221168:android:901963e3395db98b349635",
+        "android_client_info": {
+          "package_name": "com.oc.tuk.tuk.auto.simulator.game3d.driving.rickshaw.passenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105428221168-5pg2h4cqn7okolapb0dntjbla8epo6mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-ZPGgz2kr3efh-DtYaz_LAfqPNjOgoeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105428221168-5pg2h4cqn7okolapb0dntjbla8epo6mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

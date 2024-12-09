@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 72fef48c47951184a992812d23b31351
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 3D_people_male_01_t-pose
+    100002: Audio
+    100004: AudioClip Template
+    100006: Body
+    100008: BodyCollider
+    100010: BrakeLight
+    100012: BrakeLight 1
+    100014: Bus (6)
+    100016: //RootNode
+    100018: Bus 6
+    100020: bus body
+    100022: Buses Meshes
+    100024: COM
+    100026: Cube (2)
+    100028: CylinderTubeThin
+    100030: door1
+    100032: door2
+    100034: DriverFrontPivot
+    100036: DriverFrontPos
+    100038: Engine
+    100040: fuel (6)
+    100042: FuelOpening
+    100044: GameObject
+    100046: GameObject (4)
+    100048: GameObject (4) 1
+    100050: GameObject (5)
+    100052: GameObject (5) 1
+    100054: GameObject (6)
+    100056: GameObject (6) 1
+    100058: GameObject 1
+    100060: Group001
+    100062: Hard Body Drag
+    100064: HeadIK-Target (6)
+    100066: HeadLight
+    100068: HeadLight (1)
+    100070: headlight glass
+    100072: HeadLightBlocker (5)
+    100074: HeadLights (2)
+    100076: Left
+    100078: LHandIK-Target (6)
+    100080: Lights
+    100082: male 01 - Driver (6)
+    100084: mirror
+    100086: mixamorig:Head
+    100088: mixamorig:HeadTop_End
+    100090: mixamorig:Hips
+    100092: mixamorig:LeftArm
+    100094: mixamorig:LeftFoot
+    100096: mixamorig:LeftForeArm
+    100098: mixamorig:LeftHand
+    100100: mixamorig:LeftHandIndex1
+    100102: mixamorig:LeftHandIndex2
+    100104: mixamorig:LeftHandIndex3
+    100106: mixamorig:LeftHandIndex4
+    100108: mixamorig:LeftHandMiddle1
+    100110: mixamorig:LeftHandMiddle2
+    100112: mixamorig:LeftHandMiddle3
+    100114: mixamorig:LeftHandMiddle4
+    100116: mixamorig:LeftHandPinky1
+    100118: mixamorig:LeftHandPinky2
+    100120: mixamorig:LeftHandPinky3
+    100122: mixamorig:LeftHandPinky4
+    100124: mixamorig:LeftHandRing1
+    100126: mixamorig:LeftHandRing2
+    100128: mixamorig:LeftHandRing3
+    100130: mixamorig:LeftHandRing4
+    100132: mixamorig:LeftHandThumb1
+    100134: mixamorig:LeftHandThumb2
+    100136: mixamorig:LeftHandThumb3
+    100138: mixamorig:LeftHandThumb4
+    100140: mixamorig:LeftLeg
+    100142: mixamorig:LeftShoulder
+    100144: mixamorig:LeftToe_End
+    100146: mixamorig:LeftToeBase
+    100148: mixamorig:LeftUpLeg
+    100150: mixamorig:Neck
+    100152: mixamorig:RightArm
+    100154: mixamorig:RightFoot
+    100156: mixamorig:RightForeArm
+    100158: mixamorig:RightHand
+    100160: mixamorig:RightHandIndex1
+    100162: mixamorig:RightHandIndex2
+    100164: mixamorig:RightHandIndex3
+    100166: mixamorig:RightHandIndex4
+    100168: mixamorig:RightHandMiddle1
+    100170: mixamorig:RightHandMiddle2
+    100172: mixamorig:RightHandMiddle3
+    100174: mixamorig:RightHandMiddle4
+    100176: mixamorig:RightHandPinky1
+    100178: mixamorig:RightHandPinky2
+    100180: mixamorig:RightHandPinky3
+    100182: mixamorig:RightHandPinky4
+    100184: mixamorig:RightHandRing1
+    100186: mixamorig:RightHandRing2
+    100188: mixamorig:RightHandRing3
+    100190: mixamorig:RightHandRing4
+    100192: mixamorig:RightHandThumb1
+    100194: mixamorig:RightHandThumb2
+    100196: mixamorig:RightHandThumb3
+    100198: mixamorig:RightHandThumb4
+    100200: mixamorig:RightLeg
+    100202: mixamorig:RightShoulder
+    100204: mixamorig:RightToe_End
+    100206: mixamorig:RightToeBase
+    100208: mixamorig:RightUpLeg
+    100210: mixamorig:Spine
+    100212: mixamorig:Spine1
+    100214: mixamorig:Spine2
+    100216: neon
+    100218: Object026
+    100220: Object027
+    100222: ReverseHeadIK-Target (6)
+    100224: RHandIK-Target (6)
+    100226: Right
+    100228: seat
+    100230: seat2
+    100232: shadow (6)
+    100234: Soft Body Drag
+    100236: SteeringWheel
+    100238: Tire Offroad
+    100240: Tire Skid
+    100242: Torus
+    100244: Torus (1)
+    100246: Transmission
+    100248: wheel
+    100250: Wheel FL
+    100252: Wheel FL 1
+    100254: Wheel FR
+    100256: Wheel FR 1
+    100258: Wheel RL
+    100260: Wheel RL 1
+    100262: Wheel RR
+    100264: Wheel RR 1
+    100266: wheel2
+    100268: Wheels
+    100270: WheelsColliders
+    400000: 3D_people_male_01_t-pose
+    400002: Audio
+    400004: AudioClip Template
+    400006: Body
+    400008: BodyCollider
+    400010: BrakeLight
+    400012: BrakeLight 1
+    400014: Bus (6)
+    400016: //RootNode
+    400018: Bus 6
+    400020: bus body
+    400022: Buses Meshes
+    400024: COM
+    400026: Cube (2)
+    400028: CylinderTubeThin
+    400030: door1
+    400032: door2
+    400034: DriverFrontPivot
+    400036: DriverFrontPos
+    400038: Engine
+    400040: fuel (6)
+    400042: FuelOpening
+    400044: GameObject
+    400046: GameObject (4)
+    400048: GameObject (4) 1
+    400050: GameObject (5)
+    400052: GameObject (5) 1
+    400054: GameObject (6)
+    400056: GameObject (6) 1
+    400058: GameObject 1
+    400060: Group001
+    400062: Hard Body Drag
+    400064: HeadIK-Target (6)
+    400066: HeadLight
+    400068: HeadLight (1)
+    400070: headlight glass
+    400072: HeadLightBlocker (5)
+    400074: HeadLights (2)
+    400076: Left
+    400078: LHandIK-Target (6)
+    400080: Lights
+    400082: male 01 - Driver (6)
+    400084: mirror
+    400086: mixamorig:Head
+    400088: mixamorig:HeadTop_End
+    400090: mixamorig:Hips
+    400092: mixamorig:LeftArm
+    400094: mixamorig:LeftFoot
+    400096: mixamorig:LeftForeArm
+    400098: mixamorig:LeftHand
+    400100: mixamorig:LeftHandIndex1
+    400102: mixamorig:LeftHandIndex2
+    400104: mixamorig:LeftHandIndex3
+    400106: mixamorig:LeftHandIndex4
+    400108: mixamorig:LeftHandMiddle1
+    400110: mixamorig:LeftHandMiddle2
+    400112: mixamorig:LeftHandMiddle3
+    400114: mixamorig:LeftHandMiddle4
+    400116: mixamorig:LeftHandPinky1
+    400118: mixamorig:LeftHandPinky2
+    400120: mixamorig:LeftHandPinky3
+    400122: mixamorig:LeftHandPinky4
+    400124: mixamorig:LeftHandRing1
+    400126: mixamorig:LeftHandRing2
+    400128: mixamorig:LeftHandRing3
+    400130: mixamorig:LeftHandRing4
+    400132: mixamorig:LeftHandThumb1
+    400134: mixamorig:LeftHandThumb2
+    400136: mixamorig:LeftHandThumb3
+    400138: mixamorig:LeftHandThumb4
+    400140: mixamorig:LeftLeg
+    400142: mixamorig:LeftShoulder
+    400144: mixamorig:LeftToe_End
+    400146: mixamorig:LeftToeBase
+    400148: mixamorig:LeftUpLeg
+    400150: mixamorig:Neck
+    400152: mixamorig:RightArm
+    400154: mixamorig:RightFoot
+    400156: mixamorig:RightForeArm
+    400158: mixamorig:RightHand
+    400160: mixamorig:RightHandIndex1
+    400162: mixamorig:RightHandIndex2
+    400164: mixamorig:RightHandIndex3
+    400166: mixamorig:RightHandIndex4
+    400168: mixamorig:RightHandMiddle1
+    400170: mixamorig:RightHandMiddle2
+    400172: mixamorig:RightHandMiddle3
+    400174: mixamorig:RightHandMiddle4
+    400176: mixamorig:RightHandPinky1
+    400178: mixamorig:RightHandPinky2
+    400180: mixamorig:RightHandPinky3
+    400182: mixamorig:RightHandPinky4
+    400184: mixamorig:RightHandRing1
+    400186: mixamorig:RightHandRing2
+    400188: mixamorig:RightHandRing3
+    400190: mixamorig:RightHandRing4
+    400192: mixamorig:RightHandThumb1
+    400194: mixamorig:RightHandThumb2
+    400196: mixamorig:RightHandThumb3
+    400198: mixamorig:RightHandThumb4
+    400200: mixamorig:RightLeg
+    400202: mixamorig:RightShoulder
+    400204: mixamorig:RightToe_End
+    400206: mixamorig:RightToeBase
+    400208: mixamorig:RightUpLeg
+    400210: mixamorig:Spine
+    400212: mixamorig:Spine1
+    400214: mixamorig:Spine2
+    400216: neon
+    400218: Object026
+    400220: Object027
+    400222: ReverseHeadIK-Target (6)
+    400224: RHandIK-Target (6)
+    400226: Right
+    400228: seat
+    400230: seat2
+    400232: shadow (6)
+    400234: Soft Body Drag
+    400236: SteeringWheel
+    400238: Tire Offroad
+    400240: Tire Skid
+    400242: Torus
+    400244: Torus (1)
+    400246: Transmission
+    400248: wheel
+    400250: Wheel FL
+    400252: Wheel FL 1
+    400254: Wheel FR
+    400256: Wheel FR 1
+    400258: Wheel RL
+    400260: Wheel RL 1
+    400262: Wheel RR
+    400264: Wheel RR 1
+    400266: wheel2
+    400268: Wheels
+    400270: WheelsColliders
+    2100000: 6
+    2100002: 6_outside
+    2100004: Glass-OutSide Garage
+    2100006: JP_Brick01_Bump
+    2100008: Glass-Inside
+    2100010: neon
+    2100012: 6_mirror
+    2100014: male_body_01_royalblue_map_2048x
+    2100016: male_Head_01_color_map_1024x
+    2100018: fuel
+    2100020: Torus
+    2100022: CylinderTubeThin
+    2100024: CubeTube
+    2100026: Tyre-6
+    2100028: Coin
+    2300000: bus body
+    2300002: Cube (2)
+    2300004: CylinderTubeThin
+    2300006: door1
+    2300008: door2
+    2300010: fuel (6)
+    2300012: headlight glass
+    2300014: HeadLightBlocker (5)
+    2300016: mirror
+    2300018: neon
+    2300020: Object026
+    2300022: Object027
+    2300024: seat
+    2300026: seat2
+    2300028: SteeringWheel
+    2300030: Torus
+    2300032: Torus (1)
+    2300034: wheel
+    2300036: wheel2
+    3300000: bus body
+    3300002: Cube (2)
+    3300004: CylinderTubeThin
+    3300006: door1
+    3300008: door2
+    3300010: fuel (6)
+    3300012: headlight glass
+    3300014: HeadLightBlocker (5)
+    3300016: mirror
+    3300018: neon
+    3300020: Object026
+    3300022: Object027
+    3300024: seat
+    3300026: seat2
+    3300028: SteeringWheel
+    3300030: Torus
+    3300032: Torus (1)
+    3300034: wheel
+    3300036: wheel2
+    4300000: bus body
+    4300002: door1
+    4300004: door2
+    4300006: seat
+    4300008: seat2
+    4300010: headlight glass
+    4300012: mirror
+    4300014: neon
+    4300016: SteeringWheel
+    4300018: 3D_people_male_01_t-pose
+    4300020: fuel (6)
+    4300022: CylinderTubeThin
+    4300024: Torus
+    4300026: Cube (2)
+    4300028: Torus (1)
+    4300030: wheel2
+    4300032: wheel
+    4300034: Object026
+    4300036: Object027
+    4300038: HeadLightBlocker (5)
+    7400000: DoorOpen
+    7400002: DoorClose
+    9500000: //RootNode
+    13700000: 3D_people_male_01_t-pose
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: c8f6ece14e8b23940bccc239812c66d2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 3D_people_male_01_t-pose
+    100002: Audio
+    100004: AudioClip Template
+    100006: Body
+    100008: BodyCollider
+    100010: BrakeLight
+    100012: BrakeLight 1
+    100014: Bus 8 (1)
+    100016: //RootNode
+    100018: Bus-ReversingTow
+    100020: BusTowAnim
+    100022: COM
+    100024: Cube
+    100026: Cube (2)
+    100028: Cube 1
+    100030: Cube 2
+    100032: Cube 3
+    100034: CylinderTubeThin
+    100036: CylinderTubeThin 1
+    100038: Door
+    100040: Engine
+    100042: EngineStartSmoke (8)
+    100044: fuel (8)
+    100046: FuelOpening
+    100048: G6Detalhes
+    100050: G6Pintura
+    100052: Glass
+    100054: Hard Body Drag
+    100056: HeadIK-Target (8)
+    100058: inside and glass
+    100060: LHandIK-Target (8)
+    100062: Lights
+    100064: male 01 - Driver (8)
+    100066: Mesh
+    100068: mixamorig:Head
+    100070: mixamorig:HeadTop_End
+    100072: mixamorig:Hips
+    100074: mixamorig:LeftArm
+    100076: mixamorig:LeftFoot
+    100078: mixamorig:LeftForeArm
+    100080: mixamorig:LeftHand
+    100082: mixamorig:LeftHandIndex1
+    100084: mixamorig:LeftHandIndex2
+    100086: mixamorig:LeftHandIndex3
+    100088: mixamorig:LeftHandIndex4
+    100090: mixamorig:LeftHandMiddle1
+    100092: mixamorig:LeftHandMiddle2
+    100094: mixamorig:LeftHandMiddle3
+    100096: mixamorig:LeftHandMiddle4
+    100098: mixamorig:LeftHandPinky1
+    100100: mixamorig:LeftHandPinky2
+    100102: mixamorig:LeftHandPinky3
+    100104: mixamorig:LeftHandPinky4
+    100106: mixamorig:LeftHandRing1
+    100108: mixamorig:LeftHandRing2
+    100110: mixamorig:LeftHandRing3
+    100112: mixamorig:LeftHandRing4
+    100114: mixamorig:LeftHandThumb1
+    100116: mixamorig:LeftHandThumb2
+    100118: mixamorig:LeftHandThumb3
+    100120: mixamorig:LeftHandThumb4
+    100122: mixamorig:LeftLeg
+    100124: mixamorig:LeftShoulder
+    100126: mixamorig:LeftToe_End
+    100128: mixamorig:LeftToeBase
+    100130: mixamorig:LeftUpLeg
+    100132: mixamorig:Neck
+    100134: mixamorig:RightArm
+    100136: mixamorig:RightFoot
+    100138: mixamorig:RightForeArm
+    100140: mixamorig:RightHand
+    100142: mixamorig:RightHandIndex1
+    100144: mixamorig:RightHandIndex2
+    100146: mixamorig:RightHandIndex3
+    100148: mixamorig:RightHandIndex4
+    100150: mixamorig:RightHandMiddle1
+    100152: mixamorig:RightHandMiddle2
+    100154: mixamorig:RightHandMiddle3
+    100156: mixamorig:RightHandMiddle4
+    100158: mixamorig:RightHandPinky1
+    100160: mixamorig:RightHandPinky2
+    100162: mixamorig:RightHandPinky3
+    100164: mixamorig:RightHandPinky4
+    100166: mixamorig:RightHandRing1
+    100168: mixamorig:RightHandRing2
+    100170: mixamorig:RightHandRing3
+    100172: mixamorig:RightHandRing4
+    100174: mixamorig:RightHandThumb1
+    100176: mixamorig:RightHandThumb2
+    100178: mixamorig:RightHandThumb3
+    100180: mixamorig:RightHandThumb4
+    100182: mixamorig:RightLeg
+    100184: mixamorig:RightShoulder
+    100186: mixamorig:RightToe_End
+    100188: mixamorig:RightToeBase
+    100190: mixamorig:RightUpLeg
+    100192: mixamorig:Spine
+    100194: mixamorig:Spine1
+    100196: mixamorig:Spine2
+    100198: neozn
+    100200: Particle System
+    100202: PneuDianteiro2
+    100204: PneuDianteiro2 1
+    100206: PneuTraseiro
+    100208: PneuTraseiro 1
+    100210: ReverseHeadIK-Target (8)
+    100212: RHandIK-Target (8)
+    100214: shadow (8)
+    100216: smoke_thin
+    100218: SmokeParticles
+    100220: Soft Body Drag
+    100222: Stair
+    100224: StairStep
+    100226: StairStep (1)
+    100228: StairStep (2)
+    100230: StairStep (3)
+    100232: streeing
+    100234: Tire Offroad
+    100236: Tire Skid
+    100238: Torus
+    100240: Torus (1)
+    100242: Transmission
+    100244: Wheel FL
+    100246: Wheel FR
+    100248: Wheel FR 1
+    100250: Wheel RL
+    100252: Wheel RL 1
+    100254: Wheel RR
+    100256: Wheel RR 1
+    100258: WheelFL
+    100260: Wheels
+    100262: WheelsColliders (1)
+    400000: 3D_people_male_01_t-pose
+    400002: Audio
+    400004: AudioClip Template
+    400006: Body
+    400008: BodyCollider
+    400010: BrakeLight
+    400012: BrakeLight 1
+    400014: //RootNode
+    400016: Bus 8 (1)
+    400018: Bus-ReversingTow
+    400020: BusTowAnim
+    400022: COM
+    400024: Cube
+    400026: Cube (2)
+    400028: Cube 1
+    400030: Cube 2
+    400032: Cube 3
+    400034: CylinderTubeThin
+    400036: CylinderTubeThin 1
+    400038: Door
+    400040: Engine
+    400042: EngineStartSmoke (8)
+    400044: fuel (8)
+    400046: FuelOpening
+    400048: G6Detalhes
+    400050: G6Pintura
+    400052: Glass
+    400054: Hard Body Drag
+    400056: HeadIK-Target (8)
+    400058: inside and glass
+    400060: LHandIK-Target (8)
+    400062: Lights
+    400064: male 01 - Driver (8)
+    400066: Mesh
+    400068: mixamorig:Head
+    400070: mixamorig:HeadTop_End
+    400072: mixamorig:Hips
+    400074: mixamorig:LeftArm
+    400076: mixamorig:LeftFoot
+    400078: mixamorig:LeftForeArm
+    400080: mixamorig:LeftHand
+    400082: mixamorig:LeftHandIndex1
+    400084: mixamorig:LeftHandIndex2
+    400086: mixamorig:LeftHandIndex3
+    400088: mixamorig:LeftHandIndex4
+    400090: mixamorig:LeftHandMiddle1
+    400092: mixamorig:LeftHandMiddle2
+    400094: mixamorig:LeftHandMiddle3
+    400096: mixamorig:LeftHandMiddle4
+    400098: mixamorig:LeftHandPinky1
+    400100: mixamorig:LeftHandPinky2
+    400102: mixamorig:LeftHandPinky3
+    400104: mixamorig:LeftHandPinky4
+    400106: mixamorig:LeftHandRing1
+    400108: mixamorig:LeftHandRing2
+    400110: mixamorig:LeftHandRing3
+    400112: mixamorig:LeftHandRing4
+    400114: mixamorig:LeftHandThumb1
+    400116: mixamorig:LeftHandThumb2
+    400118: mixamorig:LeftHandThumb3
+    400120: mixamorig:LeftHandThumb4
+    400122: mixamorig:LeftLeg
+    400124: mixamorig:LeftShoulder
+    400126: mixamorig:LeftToe_End
+    400128: mixamorig:LeftToeBase
+    400130: mixamorig:LeftUpLeg
+    400132: mixamorig:Neck
+    400134: mixamorig:RightArm
+    400136: mixamorig:RightFoot
+    400138: mixamorig:RightForeArm
+    400140: mixamorig:RightHand
+    400142: mixamorig:RightHandIndex1
+    400144: mixamorig:RightHandIndex2
+    400146: mixamorig:RightHandIndex3
+    400148: mixamorig:RightHandIndex4
+    400150: mixamorig:RightHandMiddle1
+    400152: mixamorig:RightHandMiddle2
+    400154: mixamorig:RightHandMiddle3
+    400156: mixamorig:RightHandMiddle4
+    400158: mixamorig:RightHandPinky1
+    400160: mixamorig:RightHandPinky2
+    400162: mixamorig:RightHandPinky3
+    400164: mixamorig:RightHandPinky4
+    400166: mixamorig:RightHandRing1
+    400168: mixamorig:RightHandRing2
+    400170: mixamorig:RightHandRing3
+    400172: mixamorig:RightHandRing4
+    400174: mixamorig:RightHandThumb1
+    400176: mixamorig:RightHandThumb2
+    400178: mixamorig:RightHandThumb3
+    400180: mixamorig:RightHandThumb4
+    400182: mixamorig:RightLeg
+    400184: mixamorig:RightShoulder
+    400186: mixamorig:RightToe_End
+    400188: mixamorig:RightToeBase
+    400190: mixamorig:RightUpLeg
+    400192: mixamorig:Spine
+    400194: mixamorig:Spine1
+    400196: mixamorig:Spine2
+    400198: neozn
+    400200: Particle System
+    400202: PneuDianteiro2
+    400204: PneuDianteiro2 1
+    400206: PneuTraseiro
+    400208: PneuTraseiro 1
+    400210: ReverseHeadIK-Target (8)
+    400212: RHandIK-Target (8)
+    400214: shadow (8)
+    400216: smoke_thin
+    400218: SmokeParticles
+    400220: Soft Body Drag
+    400222: Stair
+    400224: StairStep
+    400226: StairStep (1)
+    400228: StairStep (2)
+    400230: StairStep (3)
+    400232: streeing
+    400234: Tire Offroad
+    400236: Tire Skid
+    400238: Torus
+    400240: Torus (1)
+    400242: Transmission
+    400244: Wheel FL
+    400246: Wheel FR
+    400248: Wheel FR 1
+    400250: Wheel RL
+    400252: Wheel RL 1
+    400254: Wheel RR
+    400256: Wheel RR 1
+    400258: WheelFL
+    400260: Wheels
+    400262: WheelsColliders (1)
+    2100000: G6Pintura5
+    2100002: G6Detalhes
+    2100004: Glass-OutSide Garage
+    2100006: Tyre-3
+    2100008: 1
+    2100010: neon
+    2100012: VolanteVmNovo1
+    2100014: VolvoVolanteLuzes
+    2100016: male_body_01_color_map_2048x
+    2100018: male_Head_01_color_map_1024x
+    2100020: fuel
+    2100022: Torus
+    2100024: CylinderTubeThin
+    2100026: CubeTube
+    2100028: Pneu2
+    2100030: Pneu1
+    2100032: SmokeEmmiter
+    2300000: Cube
+    2300002: Cube (2)
+    2300004: Cube 1
+    2300006: Cube 2
+    2300008: Cube 3
+    2300010: CylinderTubeThin
+    2300012: CylinderTubeThin 1
+    2300014: Door
+    2300016: fuel (8)
+    2300018: G6Detalhes
+    2300020: G6Pintura
+    2300022: Glass
+    2300024: inside and glass
+    2300026: neozn
+    2300028: PneuDianteiro2
+    2300030: PneuDianteiro2 1
+    2300032: PneuTraseiro
+    2300034: PneuTraseiro 1
+    2300036: streeing
+    2300038: Torus
+    2300040: Torus (1)
+    3300000: Cube
+    3300002: Cube (2)
+    3300004: Cube 1
+    3300006: Cube 2
+    3300008: Cube 3
+    3300010: CylinderTubeThin
+    3300012: CylinderTubeThin 1
+    3300014: Door
+    3300016: fuel (8)
+    3300018: G6Detalhes
+    3300020: G6Pintura
+    3300022: Glass
+    3300024: inside and glass
+    3300026: neozn
+    3300028: PneuDianteiro2
+    3300030: PneuDianteiro2 1
+    3300032: PneuTraseiro
+    3300034: PneuTraseiro 1
+    3300036: streeing
+    3300038: Torus
+    3300040: Torus (1)
+    4300000: Door
+    4300002: G6Detalhes
+    4300004: Cube
+    4300006: Cube
+    4300008: Cube
+    4300010: Cube
+    4300012: G6Pintura
+    4300014: Glass
+    4300016: inside and glass
+    4300018: neozn
+    4300020: streeing
+    4300022: 3D_people_male_01_t-pose
+    4300024: fuel (8)
+    4300026: CylinderTubeThin
+    4300028: Torus
+    4300030: Cube (2)
+    4300032: Torus (1)
+    4300034: PneuDianteiro2
+    4300036: PneuDianteiro2 1
+    4300038: PneuTraseiro
+    4300040: PneuTraseiro 1
+    4300042: CylinderTubeThin
+    9500000: //RootNode
+    13700000: 3D_people_male_01_t-pose
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1
+    second: {fileID: 2100000, guid: 2b163111067c6774086496343184e393, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CubeTube
+    second: {fileID: 2100000, guid: 1a0c05f7b35bc464f8e7d93df414dc7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CylinderTubeThin
+    second: {fileID: 2100000, guid: e66f025a4ec59fb4f883fb15886d4a74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: G6Detalhes
+    second: {fileID: 2100000, guid: 283bb42be32dd634784f30551a8975d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: G6Pintura5
+    second: {fileID: 2100000, guid: fabe6d485e57d0a4b868a5f59b1de4d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass-OutSide Garage
+    second: {fileID: 2100000, guid: ad53eaa82ba36e04f931287f3f26bdc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pneu1
+    second: {fileID: 2100000, guid: e9f3731f8d94b8548a5779791679948d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pneu2
+    second: {fileID: 2100000, guid: ed6a8af29dad16f42b77d5155fb24aa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SmokeEmmiter
+    second: {fileID: 2100000, guid: 4b0fc73f4ff8dac47b1d25d74b61a3eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torus
+    second: {fileID: 2100000, guid: 70412a816943dfe4b860af84f2035213, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tyre-3
+    second: {fileID: 2100000, guid: 67b97739ff2284f40a35313c9ad81a8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VolanteVmNovo1
+    second: {fileID: 2100000, guid: 599f51795425bd04fa3bc3a9862a4d8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VolvoVolanteLuzes
+    second: {fileID: 2100000, guid: 351481f1b5ca32545867dafd215aadc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fuel
+    second: {fileID: 2100000, guid: d546d65a00fd9024ea140c18f94b5cde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: male_Head_01_color_map_1024x
+    second: {fileID: 2100000, guid: 8529364859751e547a6548bf841af677, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: male_body_01_color_map_2048x
+    second: {fileID: 2100000, guid: 881b1e526d181cf4faf034c6bbbd7611, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: neon
+    second: {fileID: 2100000, guid: 62d4d6b0468491b46bf657fe3625d80e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 96
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.96
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

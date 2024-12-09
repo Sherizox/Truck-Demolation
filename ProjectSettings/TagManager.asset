@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - vehicle_collider
+  - HandleTrigger
+  - Human
+  - Vehicle
+  - ways
+  - Water
+  - Grass
+  - scene
+  - SoundManager
+  - Sit
+  - Street
+  - Coin
+  - Fail
+  - MainMenu
+  - AiCar
+  - Health
+  - power
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Trigger
+  - Water
+  - UI
+  - 
+  - AiCar
+  - PostProcessing
+  - Nodes
+  - Player
+  - AIVehicle
+  - Props
+  - Map
+  - RCC
+  - RCC_WheelCollider
+  - RCC_DetachablePart
+  - RCC_Trailer
+  - RCC_Crasher
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
